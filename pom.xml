@@ -12,7 +12,7 @@
 	<artifactId>fundamentos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>fundamentos</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Ejemplo del curso Fundamentos de Java Spring Boot completo.</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
@@ -60,5 +60,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
